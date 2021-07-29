@@ -23,8 +23,7 @@ module "bucket-only" {
   bucket_name = "sandeep-bucket-22"
 }
 
-/*
+
 output "IP" {
- value = module.server2.PUBLIC_IP
+ value = module.server2.MY_PUBLIC_IP
 }
-*/
