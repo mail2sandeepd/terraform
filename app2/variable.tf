@@ -21,5 +21,5 @@ variable "aws_region" {
 
 variable "aws_user" {
     type = string
-    default = "ibm_sandeep"
+    default = "sandeep"
 }
